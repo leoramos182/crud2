@@ -1,0 +1,16 @@
+.sidenav a{
+    display: flex;
+    align-items: flex-end;
+    margin-top: 10px;
+}
+.sidenav{
+    background-color: #673ab7;
+    color: #fff;
+    width: 150px;
+}
+.sidenav-icon{
+    margin: 0 10px;
+}
+.sidenav-page-name{
+    font-weight: 500;
+}
