@@ -4,6 +4,11 @@
             "id": 1,
             "name": "Caderno Vermelho",
             "price": 5
+        },
+        {
+            "id": 2,
+            "name": "Caderno Amarelo",
+            "price": 5
         }
     ]
 }
