@@ -1,0 +1,7 @@
+.icon-toolbar{
+    margin: 0 10px 0 10px;
+}
+.toolbar{
+    position: sticky;
+    top: 0;
+}
