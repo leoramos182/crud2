@@ -1,0 +1,9 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caderno Vermelho",
+            "price": 5
+        }
+    ]
+}
