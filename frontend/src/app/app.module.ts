@@ -13,14 +13,16 @@ import { FooterComponent } from './components/template/footer/footer.component';
 import { NavbarComponent } from './components/template/sidenav/navbar.component';
 import { HomeComponent } from './views/home/home.component'
 
-import {MatCardModule} from '@angular/material/card'
+import {MatCardModule} from '@angular/material/card';
+import { ProductCrudComponent } from './views/product-crud/product-crud.component'
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
     NavbarComponent,
-    HomeComponent
+    HomeComponent,
+    ProductCrudComponent
   ],
   imports: [
     BrowserModule,
