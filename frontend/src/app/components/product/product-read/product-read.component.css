@@ -1,0 +1,10 @@
+table{
+    width: 100%;
+}
+.delete{
+    color: red;
+    margin-left: 10px;
+}
+.edit{
+    color: #d9cd26;
+}
